@@ -19,7 +19,7 @@
 
 ###
 
-<p align="left">I'm Support Engineer from Bangladesh<br><br>- 🔭 I’m working as Support Engineer<br>- 📚 I'm currently learning HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS, DaisyUI, Node.js, Express.js, RESTful APIs, JWT Authentication, MongoDB, Firebase, SQL, GitHub, Netlify, Vercel, Surge, and networking fundamentals.<br>- ⚡ In my free time, I enjoy reading, gardening, exercising, hiking, practicing martial arts, attending family gatherings, going to events, watching educational videos, working on personal projects, and meditating.<br>- 🎲 Fun fact: When I'm not coding, you'll find me practicing martial arts, or volunteering to teach tech skills to the next generation of developers. I believe in balancing both mental and physical growth for a well-rounded life!</p>
+<p align="left">I'm a Support Engineer from Bangladesh<br><br>- 🔭 I’m working as Support Engineer<br>- 📚 I'm currently learning HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS, DaisyUI, Node.js, Express.js, RESTful APIs, JWT Authentication, MongoDB, Firebase, SQL, GitHub, Netlify, Vercel, Surge, and networking fundamentals.<br>- ⚡ In my free time, I enjoy reading, gardening, exercising, hiking, practicing martial arts, attending family gatherings, going to events, watching educational videos, working on personal projects, and meditating.<br>- 🎲 Fun fact: When I'm not coding, you'll find me practicing martial arts, or volunteering to teach tech skills to the next generation of developers. I believe in balancing both mental and physical growth for a well-rounded life!</p>
 
 ###
 
