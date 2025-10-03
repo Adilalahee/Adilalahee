@@ -16,22 +16,21 @@
 ###
 <h3 align="left">👩‍💻 About Me</h3>
 ###
-###
 <p align="left">
-I’m <b>Syed Adil Mohammad</b>, a <b>Service Engineer from Bangladesh</b> passionate about technology, problem-solving, and building impactful solutions.
+I’m a <b>Service Engineer from Bangladesh</b> passionate about technology, problem-solving, and building impactful solutions.
 </p>
 
-- 🔭 **Currently:** Working as a Service Engineer with hands-on experience in ERP support and IT systems.  
+🔭 **Currently:** Working as a Service Engineer with hands-on experience in ERP support and IT systems.  
 
-- 🌱 **Learning & Growing:** Expanding my expertise in **Full-Stack Web Development** with technologies including:  
+🌱 **Learning & Growing:** Expanding my expertise in **Full-Stack Web Development** with technologies including:  
   - **Frontend:** HTML5, CSS3, JavaScript (ES6+), React, Tailwind CSS, DaisyUI  
   - **Backend:** Node.js, Express.js, RESTful APIs, JWT Authentication  
   - **Database & Deployment:** MongoDB, Firebase, SQL, Netlify, Vercel, Surge, GitHub  
   - **Other Skills:** Networking fundamentals, ERP modules, and software troubleshooting  
 
-- ⚡ **Beyond Tech:** I enjoy reading, gardening, exercising, hiking, practicing martial arts, attending family gatherings, going to events, and meditating.  
+⚡ **Beyond Tech:** I enjoy reading, gardening, exercising, hiking, practicing martial arts, attending family gatherings, going to events, and meditating.  
 
-- 🎲 **Fun Fact:** When I’m not coding, I love practicing martial arts or volunteering to teach tech skills to the next generation of developers. I believe in balancing both **mental** and **physical growth** for a well-rounded life.  
+🎲 **Fun Fact:** When I’m not coding, I love practicing martial arts or volunteering to teach tech skills to the next generation of developers. I believe in balancing both **mental** and **physical growth** for a well-rounded life.  
 
 
 ###
